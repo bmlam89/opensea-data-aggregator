@@ -1,0 +1,1 @@
+Application to automate transactions and aggregate data from Opensea into an easy to read format. Repository will be going private after pending api key approval.

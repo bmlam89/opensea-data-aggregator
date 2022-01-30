@@ -1,0 +1,27 @@
+{
+  "name": "os-data-and-transaction-aggregator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmlam89/opensea-data-aggregator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bmlam89/opensea-data-aggregator/issues"
+  },
+  "homepage": "https://github.com/bmlam89/opensea-data-aggregator#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "dotenv": "^14.3.2",
+    "ethereumjs-tx": "^2.1.2",
+    "https": "^1.0.0",
+    "opensea-js": "^1.2.8",
+    "web3": "^1.7.0"
+  }
+}
